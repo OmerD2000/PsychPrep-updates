@@ -1,5 +1,7 @@
 {
   "latest": "0.2",
   "url": "https://github.com/OmerD2000/PsychPrep/releases/latest",
-  "notes": "גרסה ראשונית."
+  "androidUrl": "market://details?id=YOUR.PACKAGE.ID",
+  "iosUrl": "itms-apps://apps.apple.com/app/idYOUR_APP_ID",
+  "notes": "מה חדש בגרסה"
 }
